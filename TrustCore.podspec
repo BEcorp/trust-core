@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = 'TrustCore'
   s.version      = '0.2.2'
   s.summary      = 'Core Ethereum data structures and algorithms.'
-  s.homepage     = 'https://github.com/TrustWallet/trust-core'
+  s.homepage     = 'https://github.com/BEcorp/trust-core'
   s.license      = 'MIT'
   s.authors      = { 'Alejandro Isaza' => 'al@isaza.ca' }
 
