@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.12'
   s.swift_version = '4.2'
 
-  s.source       = { git: 'https://github.com/TrustWallet/trust-core.git', tag: s.version }
+  s.source       = { git: 'https://github.com/BEcorp/trust-core.git', tag: s.version }
   s.source_files = 'Sources/**/*.{swift,h,m}'
   s.public_header_files = 'Sources/TrustCore.h', 'Sources/Crypto.h'
 
